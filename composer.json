@@ -7,5 +7,8 @@
             "email": "staconik@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {"FasSt\\": "src/FasSt/"}
+    },
     "require": {}
 }
