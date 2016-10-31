@@ -1,0 +1,11 @@
+{
+    "name": "staconik/fas-st",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stas Pazhoha",
+            "email": "staconik@gmail.com"
+        }
+    ],
+    "require": {}
+}
